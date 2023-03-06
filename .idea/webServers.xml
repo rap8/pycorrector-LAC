@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="03260f7f-dde0-4474-9dc1-4a982dc61522" name="同安">
+        <fileTransfer rootFolder="/home/yuanfeng/yfenty" accessType="SFTP" host="124.71.226.36" port="22" sshConfigId="86c84b18-4ac8-4356-b5d7-9a2cfbe95a7a" sshConfig="UOS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
